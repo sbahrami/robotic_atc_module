@@ -5,8 +5,8 @@ Automatic Tool Changer (ATC) or Robotic Tool Changer is an interface mounted on 
 - **Robotic Applications**: The ATC is used in robotic applications for efficient tool changes on robot wrists, enhancing production and minimizing human error.
 
 ## ATC Components
-- **Standard Gripper**: A part of the ATC that assists in aligning and gripping the hanger.
 - **KRT-A100**: A standard Kuka part with a pneumatic cylinder, adjustable with shims for zero axial clearance.
+- **PLR-D-**: A modular tooling component from "Bilsing Automation" that is used in design of the tooling. The ATC is designed to be compatible with this component.
 
 ## ATC Stand
 - **Stability**: Designed to hold hangers firmly for the robot's pick-up process.
